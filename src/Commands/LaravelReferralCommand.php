@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Twoh4services\LaravelReferral\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelReferralCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-referral';
 
     public $description = 'My command';
 
